@@ -1,0 +1,119 @@
+00:00:00.002722 main     VirtualBox COM Server 6.0.6 r130049 win.amd64 (Apr 16 2019 10:52:04) release log
+00:00:00.002724 main     Log opened 2019-05-04T06:51:26.388724200Z
+00:00:00.002725 main     Build Type: release
+00:00:00.002751 main     OS Product: Windows 10
+00:00:00.002752 main     OS Release: 10.0.17134
+00:00:00.002752 main     OS Service Pack: 
+00:00:00.024411 main     DMI Product Name: HP Pavilion Laptop 14-bf1xx
+00:00:00.037881 main     DMI Product Version: Type1ProductConfigId
+00:00:00.037891 main     Host RAM: 8108MB (7.9GB) total, 4014MB (3.9GB) available
+00:00:00.037918 main     Executable: D:\os\VBoxSVC.exe
+00:00:00.037919 main     Process ID: 12204
+00:00:00.037919 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.971534          VirtualBox: object creation starts
+00:00:00.972259          Home directory: 'C:\Users\25696\.VirtualBox'
+00:00:00.972419          Installed Drivers:
+00:00:00.981361            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.6.30049)
+00:00:00.982188            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.6.30049)
+00:00:00.982973            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.6.30049)
+00:00:00.983771            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.6.30049)
+00:00:00.989293          Getting USB descriptor failed with error 31
+00:00:00.989342          Getting USB descriptor failed with error 31
+00:00:00.991099          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb5d6)
+00:00:00.991236          USB: Unknown USB device detected (idVendor: 0x1ea7, idProduct: 0x0064)
+00:00:00.991271          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aa7)
+00:00:01.032919          HostDnsMonitor::updateInfo
+00:00:01.033016          HostDnsMonitor: old information
+00:00:01.033017            no server entries
+00:00:01.033018            no domain set
+00:00:01.033018            no search string entries
+00:00:01.033019          HostDnsMonitor: new information
+00:00:01.033019            server 1: 202.114.49.206
+00:00:01.033020            server 2: 202.114.49.196
+00:00:01.033020            no domain set
+00:00:01.033021            no search string entries
+00:00:01.118559          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:01.119707          VD: VDInit finished with VINF_SUCCESS
+00:00:01.121434          VirtualBox: object created
+00:00:05.965227          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.970559          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:31.570343 dns-monitor HostDnsMonitor::updateInfo
+00:06:31.570388 dns-monitor HostDnsMonitor: unchanged
+00:18:48.665845 dns-monitor HostDnsMonitor::updateInfo
+00:18:48.665909 dns-monitor HostDnsMonitor: old information
+00:18:48.665916 dns-monitor   server 1: 202.114.49.206
+00:18:48.665922 dns-monitor   server 2: 202.114.49.196
+00:18:48.665927 dns-monitor   no domain set
+00:18:48.665932 dns-monitor   no search string entries
+00:18:48.665937 dns-monitor HostDnsMonitor: new information
+00:18:48.665941 dns-monitor   server 1: 192.168.43.1
+00:18:48.665946 dns-monitor   no domain set
+00:18:48.665951 dns-monitor   no search string entries
+00:20:28.944496 dns-monitor HostDnsMonitor::updateInfo
+00:20:28.944533 dns-monitor HostDnsMonitor: old information
+00:20:28.944540 dns-monitor   server 1: 192.168.43.1
+00:20:28.944545 dns-monitor   no domain set
+00:20:28.944551 dns-monitor   no search string entries
+00:20:28.944555 dns-monitor HostDnsMonitor: new information
+00:20:28.944560 dns-monitor   server 1: 202.114.49.206
+00:20:28.944565 dns-monitor   server 2: 202.114.49.196
+00:20:28.944570 dns-monitor   no domain set
+00:20:28.944574 dns-monitor   no search string entries
+00:24:08.931059 dns-monitor HostDnsMonitor::updateInfo
+00:24:08.931204 dns-monitor HostDnsMonitor: old information
+00:24:08.931218 dns-monitor   server 1: 202.114.49.206
+00:24:08.931228 dns-monitor   server 2: 202.114.49.196
+00:24:08.931271 dns-monitor   no domain set
+00:24:08.931280 dns-monitor   no search string entries
+00:24:08.931285 dns-monitor HostDnsMonitor: new information
+00:24:08.931289 dns-monitor   server 1: 192.168.43.1
+00:24:08.931294 dns-monitor   no domain set
+00:24:08.931299 dns-monitor   no search string entries
+00:54:08.394898 dns-monitor HostDnsMonitor::updateInfo
+00:54:08.394965 dns-monitor HostDnsMonitor: unchanged
+01:20:48.432731 dns-monitor HostDnsMonitor::updateInfo
+01:20:48.432758 dns-monitor HostDnsMonitor: unchanged
+01:42:12.879655 dns-monitor HostDnsMonitor::updateInfo
+01:42:12.879912 dns-monitor HostDnsMonitor: old information
+01:42:12.879929 dns-monitor   server 1: 192.168.43.1
+01:42:12.879939 dns-monitor   no domain set
+01:42:12.879948 dns-monitor   no search string entries
+01:42:12.879957 dns-monitor HostDnsMonitor: new information
+01:42:12.879964 dns-monitor   server 1: 202.114.49.206
+01:42:12.879972 dns-monitor   server 2: 202.114.49.196
+01:42:12.879979 dns-monitor   no domain set
+01:42:12.879987 dns-monitor   no search string entries
+01:54:03.821036 MainPower Host suspending: Paused 0 VMs
+20:28:51.799533 MainPower Host resumed: Resumed 0 VMs
+20:28:54.244028 dns-monitor HostDnsMonitor::updateInfo
+20:28:54.244104 dns-monitor HostDnsMonitor: old information
+20:28:54.244123 dns-monitor   server 1: 202.114.49.206
+20:28:54.244137 dns-monitor   server 2: 202.114.49.196
+20:28:54.244149 dns-monitor   no domain set
+20:28:54.244161 dns-monitor   no search string entries
+20:28:54.244172 dns-monitor HostDnsMonitor: new information
+20:28:54.244183 dns-monitor   no server entries
+20:28:54.244193 dns-monitor   no domain set
+20:28:54.244204 dns-monitor   no search string entries
+20:29:37.602477 dns-monitor HostDnsMonitor::updateInfo
+20:29:37.602497 dns-monitor HostDnsMonitor: unchanged
+20:29:40.723995 dns-monitor HostDnsMonitor::updateInfo
+20:29:40.724059 dns-monitor HostDnsMonitor: old information
+20:29:40.724073 dns-monitor   no server entries
+20:29:40.724084 dns-monitor   no domain set
+20:29:40.724092 dns-monitor   no search string entries
+20:29:40.724100 dns-monitor HostDnsMonitor: new information
+20:29:40.724108 dns-monitor   server 1: 192.168.43.1
+20:29:40.724117 dns-monitor   no domain set
+20:29:40.724124 dns-monitor   no search string entries
+20:45:18.423345          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:45:18.438738          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:56:54.648834          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:56:54.661193          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:56:54.671509          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:56:54.679233          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:56:54.686276          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:57:01.792366          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+20:57:10.820949 main     VirtualBox: object deletion starts
+20:57:11.170110 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+20:57:11.193831 main     VirtualBox: object deleted

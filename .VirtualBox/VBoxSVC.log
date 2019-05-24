@@ -1,0 +1,110 @@
+00:00:00.001491 main     VirtualBox COM Server 6.0.6 r130049 win.amd64 (Apr 16 2019 10:52:04) release log
+00:00:00.001492 main     Log opened 2019-05-18T05:21:54.092293400Z
+00:00:00.001493 main     Build Type: release
+00:00:00.001518 main     OS Product: Windows 10
+00:00:00.001520 main     OS Release: 10.0.17134
+00:00:00.001520 main     OS Service Pack: 
+00:00:00.021289 main     DMI Product Name: HP Pavilion Laptop 14-bf1xx
+00:00:00.032671 main     DMI Product Version: Type1ProductConfigId
+00:00:00.032681 main     Host RAM: 8108MB (7.9GB) total, 4139MB (4.0GB) available
+00:00:00.032705 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.032706 main     Process ID: 2616
+00:00:00.032706 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.755127          VirtualBox: object creation starts
+00:00:00.755791          Home directory: 'C:\Users\25696\.VirtualBox'
+00:00:00.755963          Installed Drivers:
+00:00:00.761434            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.6.30049)
+00:00:00.763138            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.6.30049)
+00:00:00.764622            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.6.30049)
+00:00:00.766612            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.6.30049)
+00:00:00.774943          Loading settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.822752          Getting USB descriptor failed with error 31
+00:00:00.822823          Getting USB descriptor failed with error 31
+00:00:00.824840          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb5d6)
+00:00:00.825013          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aa7)
+00:00:00.930481          HostDnsMonitor::updateInfo
+00:00:00.930550          HostDnsMonitor: old information
+00:00:00.930551            no server entries
+00:00:00.930552            no domain set
+00:00:00.930552            no search string entries
+00:00:00.930552          HostDnsMonitor: new information
+00:00:00.930553            server 1: 202.114.49.206
+00:00:00.930554            server 2: 202.114.49.196
+00:00:00.930554            no domain set
+00:00:00.930555            no search string entries
+00:00:01.004636          VD: VDInit finished with VINF_SUCCESS
+00:00:01.015515          Loading settings file "C:\Users\25696\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:01.017435          VirtualBox: object created
+00:00:50.949098          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:50.962530          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:00.827622          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:01.135632          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:06:36.811522 dns-monitor HostDnsMonitor::updateInfo
+00:06:36.811553 dns-monitor HostDnsMonitor: unchanged
+00:13:57.078427          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:21:36.927505 dns-monitor HostDnsMonitor::updateInfo
+00:21:36.927526 dns-monitor HostDnsMonitor: unchanged
+00:36:37.084201 dns-monitor HostDnsMonitor::updateInfo
+00:36:37.084274 dns-monitor HostDnsMonitor: unchanged
+00:51:37.281860 dns-monitor HostDnsMonitor::updateInfo
+00:51:37.281889 dns-monitor HostDnsMonitor: unchanged
+01:02:08.014231          Saving settings file "C:\Users\25696\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+01:02:08.658790          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:08.658910          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:08.658945          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:08.658976          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:08.659006          Saving settings file "C:\Users\25696\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+01:02:38.508905          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:38.516659          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:45.102580          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:47.947147          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:51.011235          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:51.011301          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:51.011335          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:51.011354          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={9b6e1aee-35f3-4f4d-b5bb-ed0ecefd8538} aComponent={EventSourceWrap} aText={Unknown event}, preserve=false aResultDetail=0
+01:02:51.024467          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:54.425867          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:54.438044          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:02:58.290178          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:03:00.542950          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:03:00.555811          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:03:12.775117          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:03:13.073832          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:06:37.483199 dns-monitor HostDnsMonitor::updateInfo
+01:06:37.483232 dns-monitor HostDnsMonitor: unchanged
+01:08:43.942995          Saving settings file "C:\Users\25696\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+01:08:44.582335          Saving settings file "C:\Users\25696\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+01:09:32.530578 MainPower Host suspending: Paused 0 VMs
+04:52:12.700091 MainPower Host resumed: Resumed 0 VMs
+04:52:14.730138 dns-monitor HostDnsMonitor::updateInfo
+04:52:14.730200 dns-monitor HostDnsMonitor: old information
+04:52:14.730212 dns-monitor   server 1: 202.114.49.206
+04:52:14.730221 dns-monitor   server 2: 202.114.49.196
+04:52:14.730230 dns-monitor   no domain set
+04:52:14.730238 dns-monitor   no search string entries
+04:52:14.730250 dns-monitor HostDnsMonitor: new information
+04:52:14.730260 dns-monitor   no server entries
+04:52:14.730267 dns-monitor   no domain set
+04:52:14.730274 dns-monitor   no search string entries
+04:52:39.940286 dns-monitor HostDnsMonitor::updateInfo
+04:52:39.940314 dns-monitor HostDnsMonitor: unchanged
+04:52:42.761517 dns-monitor HostDnsMonitor::updateInfo
+04:52:42.761540 dns-monitor HostDnsMonitor: old information
+04:52:42.761546 dns-monitor   no server entries
+04:52:42.761552 dns-monitor   no domain set
+04:52:42.761557 dns-monitor   no search string entries
+04:52:42.761562 dns-monitor HostDnsMonitor: new information
+04:52:42.761567 dns-monitor   server 1: 192.168.43.1
+04:52:42.761572 dns-monitor   no domain set
+04:52:42.761577 dns-monitor   no search string entries
+04:59:58.463052 dns-monitor HostDnsMonitor::updateInfo
+04:59:58.463081 dns-monitor HostDnsMonitor: unchanged
+05:56:38.069576 USBPROXY Getting USB descriptor failed with error 31
+05:56:41.351644 USBPROXY Getting USB descriptor failed with error 31
+06:04:00.349547 USBPROXY Getting USB descriptor failed with error 31
+06:35:24.797967          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+06:35:24.810187          Saving settings file "C:\Users\25696\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+06:35:30.343342 main     VirtualBox: object deletion starts
+06:35:30.354088 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\25696\Desktop\ubuntu镜像源。iso文件\Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+06:35:30.368035 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+06:35:30.368500 main     VirtualBox: object deleted
